@@ -25,12 +25,12 @@ Research experience
 ======
 **School of Software, Tsinghua University Jun. 2021 – Sep. 2021**\
 *Supervised by Assoc. Prof. [Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/)*\
-**Intelligent Wireless Power Distribution Unit**
+**Wireless Power Distribution Unit**
 * Studied how to deploy large-scale wireless sensor networks; implemented a new taking-turns protocol to allow a single gateway to connect to over 300 wireless nodes simultaneously
 * Designed and implemented the backend of this project, which was used for collecting data from wireless gateways and providing collected data to the front end
 
 **Fundamental Industry Training Center, Tsinghua University Oct. 2019 – May. 2020**\
-*Automatic Delivery robot*
+**Automatic Delivery robot**
 * Built a robot that can automatically deliver goods indoors based on Arduino and Raspberry Pi; implemented basic visual algorithms (Hough Transform) for indoor localization
 * Participated in Beijing University Student Engineering Ability Competition for 2019; won the first prize and the best design award
 
