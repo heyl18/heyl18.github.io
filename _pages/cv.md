@@ -15,38 +15,38 @@ Education
 
 Selected Awards and Honors (In Chronological Order)
 ======
-* **Science and Technology Innovation Scholarship** (Top 5% at Tsinghua University) 2020
-* **3rd prize in “Challenge cup”** of Tsinghua University, 2020
-* **First prize in Beijing University Student Engineering Ability Competition** 2019
-* **Best Design award in Beijing University Student Engineering Ability Competition** 2019
-* **Second-class Freshman Scholarship** (Top 1% at Tsinghua University), 2018
+* **Science and Technology Innovation Scholarship** for 2020 (Top 5% at Tsinghua University)
+* **Third prize in “Challenge cup”** for 2020, Tsinghua University
+* **First prize in Beijing University Student Engineering Ability Competition** for 2019
+* **Best Design award in Beijing University Student Engineering Ability Competition** for 2019
+* **Second-class Freshman Scholarship** for 2018 (Top 10% at Tsinghua University)
 
 Research experience
 ======
 **School of Software, Tsinghua University Jun. 2021 – Sep. 2021**\
 *Supervised by Assoc. Prof. [Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/)*\
 **Intelligent Wireless Power Distribution Unit**
-* Studied how to deploy large scale wireless sensor network; Designed and implemented new taking-turns protocol to support more wireless devices at the same time (Over 500 devices)
-* Implemented the backend of this project, including a Spring Boot based Web backend and a MQTT broker. The backend was mainly used for collecting data from the wireless gateways
+* Studied how to deploy large-scale wireless sensor networks; implemented a new taking-turns protocol to allow a single gateway to connect to over 300 wireless nodes simultaneously
+* Designed and implemented the backend of this project, which was used for collecting data from wireless gateways and providing collected data to the front end
 
 **Fundamental Industry Training Center, Tsinghua University Oct. 2019 – May. 2020**\
-*Intelligent logistics robot (using Arduino & Raspberry pie)*
-* Built an automatic logistics robot which can transport goods; Implemented basic visual algorithms (Hough Transform etc.) in order to locate the robot.
-* Participated in Beijing University Student Engineering Ability Competition 2019 and won the first prize & Best Design award
+*Automatic Delivery robot*
+* Built a robot that can automatically deliver goods indoors based on Arduino and Raspberry Pi; implemented basic visual algorithms (Hough Transform) for indoor localization
+* Participated in Beijing University Student Engineering Ability Competition for 2019; won the first prize and the best design award
 
 Selected Projects
 ======
 
 **Internet of Things**
--	In the course of Introduction to Internet of things, our group (3 students) designed and implemented an acoustic communication system. We also implemented a high accuracy acoustic ranging system, based on this paper: *BeepBeep: a high accuracy acoustic ranging system using COTS mobile devices*
+- In the course of Introduction to Internet of things, our group (3 students) designed and implemented an acoustic communication system using basic modulate methods such as OOK and FSK. We also implemented a high accuracy acoustic ranging system, based on this paper: *BeepBeep: a high accuracy acoustic ranging system using COTS mobile devices*
 
 **Machine Learning / Artificial Intelligence**
-- In the course of Machine Learning, our group (4 students) implemented deep reinforcement learning algorithms (DQN, double DQN and Rainbow etc.) with Python and PyTorch. Our implementation perfectly reproduced the results of the original experiments. 
+- In the course of Machine Learning, our group (4 students) reproduced several papers on deep reinforcement learning (DQN, double DQN and Rainbow etc.). We used the algorithms proposed in these papers to let the AI learn how to play Atari games. Our implementation perfectly reproduced the results of the original experiments. 
 
 **Software Development**
-- In the course of Software Engineering, our group (4 students) developed a Track and field Games management application based on Django, Vue and MySQL, which allowed users to manage the athletes and fill in the relevant information.
+- In the course of Software Engineering, our group (4 students) developed a sports meeting management system based on Django, Vue and MySQL. The administrators can manage sports events while the athletes can check relevant information through the website.
 
-- In the course of Introduction to Mobile Application Development, our group (3 students) developed an instant messaging App on Android, which allowed users to chat with others and to send all types of messages to others.
+- In the course of Introduction to Mobile Application Development, our group (3 students) designed and implemented a user-friendly instant messaging App on Android, which allowed users to send all types of messages to others and share their moments with others.
 
 
 Skills
