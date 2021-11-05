@@ -15,11 +15,12 @@ Education
 
 Selected Awards and Honors (In Chronological Order)
 ======
-* **Science and Technology Innovation Scholarship** for 2020 (Top 5% at Tsinghua University)
+* **Academic Excellence Scholarship** for 2021
+* **Science and Technology Innovation Scholarship** for 2020
 * **Third prize in “Challenge cup”** for 2020, Tsinghua University
 * **First prize in Beijing University Student Engineering Ability Competition** for 2019
 * **Best Design award in Beijing University Student Engineering Ability Competition** for 2019
-* **Second-class Freshman Scholarship** for 2018 (Top 10% at Tsinghua University)
+* **Second-class Freshman Scholarship** for 2018
 
 Research experience
 ======
@@ -31,7 +32,7 @@ Research experience
 
 **Fundamental Industry Training Center, Tsinghua University Oct. 2019 – May. 2020**\
 **Automatic Delivery robot**
-* Built a robot that can automatically deliver goods indoors based on Arduino and Raspberry Pi; implemented basic visual algorithms (Hough Transform) for indoor localization
+* Built a robot that can automatically deliver goods indoors based on Arduino and Raspberry Pi; implemented basic visual algorithms with OpenCV for indoor localization
 * Participated in Beijing University Student Engineering Ability Competition for 2019; won the first prize and the best design award
 
 Selected Projects
@@ -41,7 +42,7 @@ Selected Projects
 - In the course of Introduction to Internet of things, our group (3 students) designed and implemented an acoustic communication system using basic modulate methods such as OOK and FSK. We also implemented a high accuracy acoustic ranging system, based on this paper: *BeepBeep: a high accuracy acoustic ranging system using COTS mobile devices*
 
 **Machine Learning / Artificial Intelligence**
-- In the course of Machine Learning, our group (4 students) reproduced several papers on deep reinforcement learning (DQN, double DQN and Rainbow etc.). We used the algorithms proposed in these papers to let the AI learn how to play Atari games. Our implementation perfectly reproduced the results of the original experiments. 
+- In the course of Machine Learning, our group (4 students) reproduced several papers on deep reinforcement learning (DQN, double DQN and Rainbow etc.). We used the algorithms proposed in these papers to let the AI learn how to play Atari games. Our implementation perfectly reproduced the baseline of the original paper. 
 
 **Software Development**
 - In the course of Software Engineering, our group (4 students) developed a sports meeting management system based on Django, Vue and MySQL. The administrators can manage sports events while the athletes can check relevant information through the website.
